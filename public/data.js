@@ -1,7 +1,7 @@
 const dataHeader = [
   {
     id: 1,
-    image: "/pic/4Pointstar.png",
+    image: "./pic/4Pointstar.png",
     logoTxt: "Portfolio",
     linkone: "Profile",
     linktwo: "Education",
