@@ -30,6 +30,9 @@ html {
   overflow-x: hidden;
   height: 100%;
 }
+#second{
+  color: #fff;
+}
 .vong {
   width: 100%;
   height: 100%;
@@ -999,7 +1002,7 @@ section .mb-links .links .a {
     margin-top: 2rem;
   }
    .clock {
-    border: .2px dashed red !important;
+    border: .2rem solid #fff !important;
   }
   .rotate-hand {
     background-color: yellow !important;
