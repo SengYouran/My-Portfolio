@@ -758,7 +758,7 @@ section .mb-links .links .a {
   width: 6rem;
   height: 6rem;
   border-radius: 50%;
-  background: #ff0095;
+  background: #062121;
   border: .1rem solid #fff;
 }
 
@@ -997,5 +997,11 @@ section .mb-links .links .a {
   .last{
     margin-left: 8rem;
     margin-top: 2rem;
+  }
+   .clock {
+    border: .2px dashed red !important;
+  }
+  .rotate-hand {
+    background-color: yellow !important;
   }
 }
